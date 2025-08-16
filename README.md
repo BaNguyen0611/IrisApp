@@ -1,3 +1,7 @@
+<img width="801" height="496" alt="Screen Shot 2025-08-16 at 11 10 41" src="https://github.com/user-attachments/assets/31e85576-d323-423e-9cd4-8cc264bdcd8f" />
+
+
+
 # IrisApp
 # 🌸 IrisApp - Dự đoán loài hoa Iris bằng KNN và Flask
 
